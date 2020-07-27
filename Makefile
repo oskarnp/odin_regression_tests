@@ -34,7 +34,7 @@ test3: $(ODIN_RELSAFE)
 
 define RUN_TESTS
 @echo "Odin commit: "; cd Odin && git rev-parse HEAD
-@for dir in 642 647 674; do \
+@for dir in 642 647 674 705; do \
 	echo ================================================================================ ; \
 	echo Running $$dir with $(ODIN) ... ; \
 	make -C ./$$dir ODIN=$(ODIN)  ; \
