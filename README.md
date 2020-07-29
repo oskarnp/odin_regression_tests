@@ -4,8 +4,10 @@ Just some regression tests for bugs I have found in the Odin compiler.
 
 ## How to use
 
+```sh
 $ git submodule update --init
 $ make
+```
 
 Example output:
 
