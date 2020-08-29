@@ -13,6 +13,8 @@ Regression tests for bugs found in the Odin compiler.
 | [706](https://github.com/odin-lang/Odin/issues/706) | Error: test.odin(44:2) runtime assertion                                              |
 | [708](https://github.com/odin-lang/Odin/issues/708) | OK                                                                                    |
 | [713](https://github.com/odin-lang/Odin/issues/713) | Error: test.odin(5:6) Cannot assign value '&val' of type '^f32' to '^int' in argument |
+| [714](https://github.com/odin-lang/Odin/issues/714) | OK |
+| [718](https://github.com/odin-lang/Odin/issues/718) | OK |
 
 ## How to use
 

@@ -33,7 +33,7 @@ test3: ODIN=../$(ODIN_RELSAFE)
 test3: $(ODIN_RELSAFE)
 	$(RUN_TESTS)
 
-ALL_TESTS = 642 647 674 705 706 708 713
+ALL_TESTS = 642 647 674 705 706 708 713 714 718
 
 define RUN_TESTS
 @echo "Odin commit: "; cd Odin && git rev-parse HEAD
