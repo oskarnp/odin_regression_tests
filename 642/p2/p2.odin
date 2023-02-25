@@ -7,6 +7,6 @@ my_cb :: proc() {
 
 main :: proc() {
 	p1.run({
-		cb = my_cb
+		cb = my_cb,
 	});
 }

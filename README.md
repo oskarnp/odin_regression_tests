@@ -6,15 +6,13 @@ Regression tests for bugs found in the Odin compiler.
 
 |                        Issue#                       |                                         Result                                        |
 |-----------------------------------------------------|---------------------------------------------------------------------------------------|
-| [642](https://github.com/odin-lang/Odin/issues/642) | Error: Odin/src/ir.cpp(1005): Panic: Invalid abi type pass kind: proc()               |
+| [642](https://github.com/odin-lang/Odin/issues/642) | OK                                                                                    |
 | [647](https://github.com/odin-lang/Odin/issues/647) | OK                                                                                    |
 | [674](https://github.com/odin-lang/Odin/issues/674) | OK                                                                                    |
 | [705](https://github.com/odin-lang/Odin/issues/705) | OK                                                                                    |
-| [706](https://github.com/odin-lang/Odin/issues/706) | Error: test.odin(44:2) runtime assertion                                              |
 | [708](https://github.com/odin-lang/Odin/issues/708) | OK                                                                                    |
-| [713](https://github.com/odin-lang/Odin/issues/713) | Error: test.odin(5:6) Cannot assign value '&val' of type '^f32' to '^int' in argument |
-| [714](https://github.com/odin-lang/Odin/issues/714) | OK |
-| [718](https://github.com/odin-lang/Odin/issues/718) | OK |
+| [714](https://github.com/odin-lang/Odin/issues/714) | OK            																		  |
+| [718](https://github.com/odin-lang/Odin/issues/718) | OK            																		  |
 
 ## How to use
 
